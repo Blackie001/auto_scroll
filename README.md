@@ -16,3 +16,10 @@ This project demonstrates how to create a **smooth, continuous scrolling text an
 - 🔌 Zero dependencies – self-contained HTML file
 
 ---
+
+
+
+## 🚀 How to View
+1. Clone this repository:
+   ```bash
+https://blackie001.github.io/....../
